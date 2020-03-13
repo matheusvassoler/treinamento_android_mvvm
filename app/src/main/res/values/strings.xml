@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">aulamvvm</string>
+    <string name="invalid_user_or_password">Senha ou login invalido</string>
+</resources>
